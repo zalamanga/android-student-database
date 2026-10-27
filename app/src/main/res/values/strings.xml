@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CCIT02</string>
+    <string name="empty_list_text">Empty List Text</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string-array name="kelas">
+        <item>--Pilih--</item>
+        <item>3SE1</item>
+        <item>3SE2</item>
+        <item>3SE3</item>
+        <item>3SE4</item>
+        <item>3SE5</item>
+    </string-array>
+</resources>
